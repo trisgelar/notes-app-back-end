@@ -30,4 +30,5 @@ npm run lint
 ```
 git config --global user.name "Trisna Gelar"
 git config --global user.email "trisgelar@gmail.com"
+git config --global core.autocrlf true
 ```
